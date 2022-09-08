@@ -21,17 +21,15 @@
 ### Node
 
 ```bash
-v15.14.0
+v16.7.0
 ```
 
 ### yarn
 
 ```bash
-1.22.18
+1.22.19
 ```
 
 ### DB エンジン
 
-- MySQL
-- Cloud9 上で動作させる場合は、下記から HTML をダウンロードし、その手順に沿って環境構築を行ってください。
-  https://onedrive.live.com/?authkey=%21AJUub1X2ubpj9Qc&cid=D2DFE9880240895A&id=D2DFE9880240895A%2126879&parId=D2DFE9880240895A%211376&o=OneUp
+ MySQL
